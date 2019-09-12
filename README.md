@@ -3,7 +3,7 @@ This is a multiclass image classification project using Convolutional Neural Net
 
 It is a ready-to-run code.
 
-[Read all story in Turkish](https://medium.com/@mubuyuk51/tensorflow-ile-%C3%A7ok-s%C4%B1n%C4%B1fl%C4%B1-multi-class-resim-s%C4%B1n%C4%B1fland%C4%B1rma-f56c3605aff6).
+
 # Dependencies
 
 ```pip3 install -r requirements.txt```
@@ -24,7 +24,7 @@ Training on CPU:
 # Data
 No MNIST or CIFAR-10. 
 
-This is a repository containing datasets of 5200 training images of 4 classes and 1267 testing images.No problematic image.
+This is a repository containing datasets of 5200 training images of 4 classes and 1267 testing images. No problematic image.
 
 Just extract files from multiclass_datasets.rar.
 
